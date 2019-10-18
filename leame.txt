@@ -1,0 +1,44 @@
+//Generador de Expresiones regulares por medio de gramaticas evolutivas
+
+configuración
+_____________
+
+
+Servidor Apache
+PHP version 5 o superior
+Ruby version 2 o superior
+
+
+
+Contenido de las carpetas
+__________________________
+
+
+
+Version por comandos
+---------------------
+
+buscar.txt
+configuracion.txt
+prueba.txt
+casofinalp.rb
+run.bat
+
+//////////////////////////////////////////////////////
+
+Version web
+-----------
+
+Carpeta archivo
+ajaxCargarArchivo.php
+ajaxCargarImagen.php
+generarGramatica.php
+index.php
+buscar.txt
+configuracion.txt
+prueba.txt
+casofinalp.rb
+
+
+
+
