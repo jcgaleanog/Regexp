@@ -1,0 +1,12 @@
+///Tamaño de la población
+30
+///Numero de generaciones
+10
+///Tamaño del cromosoma en genes
+13
+///Tamaño del codon
+5
+///Profundidad
+8
+//Porcentaje cruce
+0.30
